@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+netifaces==0.11.0
+=======
+netifaces==0.11.0
+>>>>>>> 20f4be8934c4bf7bd6d4d5fd92a12a6ebb001667
