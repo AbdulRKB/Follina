@@ -1,6 +1,14 @@
-# Follina
-Remote Access Shell for Windows (based on cve-2021-30190)
-<br>
-Please read the [guide](https://github.com/AbdulRKB/Follina/wiki) in order to use this tool
+<div align="center">
 
-### Made for Educational Purposes ONLY
+# Follina
+### Remote Access Shell for Windows (based on cve-2022-30190)
+###### ⚠️ Made for Educational purposes only 📚
+
+</div>
+
+## Installation & Usage 🛠️
+```bash
+$ git clone https://github.com/AbdulRKB/Follina.git
+$ cd Follina
+$ pip install -r requirements.txt
+$ python main.py
