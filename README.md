@@ -1,6 +1,6 @@
 <div align="center">
 
-# Follina
+# Follina (PATCHED)
 ### Remote Access Shell for Windows (based on cve-2022-30190)
 ###### ⚠️ Made for Educational purposes only 📚
 
